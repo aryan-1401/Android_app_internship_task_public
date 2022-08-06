@@ -1,1 +1,2 @@
 # Android_app_internship_task_public
+Flutter project created as part of an internship test. Application contains a sinple and easy login for a returning user. for a returning user the account is created with simple details. Once login, the news are displayed in a column manner with the feature to pull down to refresh. Due to lack of time, I tried to manage all of the stuff and ended up with a raw but functional application. Unfortunately due to lack of time, I wasnt able to create the video required for the submission.
